@@ -1,0 +1,1 @@
+git remote set-url origin https://lakshyabijarnia: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@github.com/lakshyabijarnia/nixosconfigs.git
