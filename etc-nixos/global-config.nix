@@ -128,6 +128,7 @@
     ydotool
     cava
     neofetch
+    protonvpn-gui
     starship
     lolcat
     gimp
